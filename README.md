@@ -13,13 +13,13 @@ Nesse repositorio você encontra todas as etapas do desafio proposto pela DHAUZ 
 
 ```
 .
-├── data
+├── Dados
 │   ├── Intermediario   <-- dados intermediários gerados para análise.
 │   ├── Processado      <-- dados finais gerados e prontos para modelagem.
 │   └── Originais            <-- dados brutos utilizados no projeto.
 ├── Notebooks          <-- Jupyter notebooks. Nomenclatura padrão 
 │                          number-initials-description.ipynb.
-├── Reports            <-- documentos salvos em HTML, PDF, LaTeX, etc.
+├── Relatorios            <-- documentos salvos em HTML, PDF, LaTeX, etc.
 │
 ├── README.md          <-- documentação base do projeto.
 └── requirements.txt   <-- dependências do projeto.
